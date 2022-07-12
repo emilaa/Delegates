@@ -1,0 +1,14 @@
+C:\Users\Emil Abdullayev\Desktop\My Projects\Delegates Practice\Delegates Practice\bin\Debug\netcoreapp3.1\Delegates Practice.exe
+C:\Users\Emil Abdullayev\Desktop\My Projects\Delegates Practice\Delegates Practice\bin\Debug\netcoreapp3.1\Delegates Practice.deps.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\Delegates Practice\Delegates Practice\bin\Debug\netcoreapp3.1\Delegates Practice.runtimeconfig.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\Delegates Practice\Delegates Practice\bin\Debug\netcoreapp3.1\Delegates Practice.runtimeconfig.dev.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\Delegates Practice\Delegates Practice\bin\Debug\netcoreapp3.1\Delegates Practice.dll
+C:\Users\Emil Abdullayev\Desktop\My Projects\Delegates Practice\Delegates Practice\bin\Debug\netcoreapp3.1\Delegates Practice.pdb
+C:\Users\Emil Abdullayev\Desktop\My Projects\Delegates Practice\Delegates Practice\obj\Debug\netcoreapp3.1\Delegates Practice.csproj.AssemblyReference.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\Delegates Practice\Delegates Practice\obj\Debug\netcoreapp3.1\Delegates Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Abdullayev\Desktop\My Projects\Delegates Practice\Delegates Practice\obj\Debug\netcoreapp3.1\Delegates Practice.AssemblyInfoInputs.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\Delegates Practice\Delegates Practice\obj\Debug\netcoreapp3.1\Delegates Practice.AssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\My Projects\Delegates Practice\Delegates Practice\obj\Debug\netcoreapp3.1\Delegates Practice.csproj.CoreCompileInputs.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\Delegates Practice\Delegates Practice\obj\Debug\netcoreapp3.1\Delegates Practice.dll
+C:\Users\Emil Abdullayev\Desktop\My Projects\Delegates Practice\Delegates Practice\obj\Debug\netcoreapp3.1\Delegates Practice.pdb
+C:\Users\Emil Abdullayev\Desktop\My Projects\Delegates Practice\Delegates Practice\obj\Debug\netcoreapp3.1\Delegates Practice.genruntimeconfig.cache
